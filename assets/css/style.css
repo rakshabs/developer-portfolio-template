@@ -15,17 +15,17 @@ body {
   background: rgb(238, 174, 202);
   background: radial-gradient(
     circle,
-    rgba(238, 174, 202, 1) 0%,
-    rgba(148, 187, 233, 1) 100%
+    rgb(7, 219, 202) 0%,
+    rgb(15, 18, 22) 100%
   );
 }
 /*custom scrollbar*/
 ::-webkit-scrollbar {
   width: 6px;
-  background: #acb7e1;
+  background: #090b13;
 }
 ::-webkit-scrollbar-thumb {
-  background: #4577af;
+  background: #0a0c0f;
   border-radius: 10px;
 }
 .flex-row {
